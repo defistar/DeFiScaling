@@ -1,5 +1,15 @@
 # DeFiScaling
 
+
+## What's up with Sidechain:
+
+ - https://cointelegraph.com/news/did-ethereum-silently-give-up-on-plasma
+
+
+
+
+## Definitions:
+
 https://ethereum.stackexchange.com/questions/71664/offchain-vs-sidechain-vs-statechannel
 
 - On-chain
