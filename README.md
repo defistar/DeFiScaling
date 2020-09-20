@@ -5,7 +5,9 @@
 
  - https://cointelegraph.com/news/did-ethereum-silently-give-up-on-plasma
 
-
+## Side Chain with anonimity:
+ - incognito:
+    https://decrypt.co/26483/incognito-to-enable-anonymous-transactions-on-major-defi-platforms
 
 
 ## Definitions:
